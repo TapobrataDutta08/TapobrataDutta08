@@ -102,20 +102,11 @@ I believe every project and challenge is an opportunity to learn something new. 
 
 <div align="center">
 
-<a href="https://github.com/TapobrataDutta08">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TapobrataDutta08&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Tapobrata's GitHub statistics" />
-</a>
-<a href="https://github.com/TapobrataDutta08">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TapobrataDutta08&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" alt="Most-used languages" />
-</a>
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=TapobrataDutta08&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TapobrataDutta08&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
 </div>
 
