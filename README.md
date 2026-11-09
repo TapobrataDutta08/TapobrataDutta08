@@ -130,7 +130,7 @@ I believe every project and challenge is an opportunity to learn something new. 
 
 <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats-jet-nu.vercel.app?user=TapobrataDutta08&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-jet-nu.vercel.app?user=TapobrataDutta08&count_private=true&theme=merko)](https://git.io/streak-stats)
 
 <br><br>
 
