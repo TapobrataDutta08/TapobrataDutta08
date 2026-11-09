@@ -140,16 +140,16 @@ I believe every project and challenge is an opportunity to learn something new. 
 
 <div align="center">
   <a href="https://github.com/TapobrataDutta08">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" alt="GitHub" width="36" height="36" />
+    <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tapobrata-dutta-a203b02a3/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" alt="LinkedIn" width="36" height="36" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:tapobrataduttafflover9@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/gmail.svg" alt="Email" width="36" height="36" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="36" height="36" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/tapobrata.dev/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg" alt="Instagram" width="36" height="36" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="36" height="36" />
   </a>
 </div>
 
