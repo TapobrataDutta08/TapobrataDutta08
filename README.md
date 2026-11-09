@@ -140,17 +140,17 @@ I believe every project and challenge is an opportunity to learn something new. 
 
 <div align="center">
 
-<a href="https://github.com/TapobrataDutta08" aria-label="GitHub">
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/tapobrata-dutta-a203b02a3/" aria-label="LinkedIn">
-  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:tapobrataduttafflover9@gmail.com" aria-label="Email">
-  <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.instagram.com/tapobrata.dev/" aria-label="Instagram">
-  <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://github.com/TapobrataDutta08">
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tapobrata-dutta-a203b02a3/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="36" height="36" />
+</a>&nbsp;&nbsp;
+<a href="mailto:tapobrataduttafflover9@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="36" height="36" />
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/tapobrata.dev/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="36" height="36" />
 </a>
 
 </div>
