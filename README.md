@@ -139,12 +139,10 @@ I believe every project and challenge is an opportunity to learn something new. 
 ## 🤝 Connect With Me
 
 <div align="center">
-
-[![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/TapobrataDutta08)&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/tapobrata-dutta-a203b02a3/)&nbsp;&nbsp;&nbsp;
-[![Email](https://cdn.simpleicons.org/gmail/EA4335)](mailto:tapobrataduttafflover9@gmail.com)&nbsp;&nbsp;&nbsp;
-[![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://www.instagram.com/tapobrata.dev/)
-
+  <a href="https://github.com/TapobrataDutta08"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="36" height="36"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tapobrata-dutta-a203b02a3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tapobrataduttafflover9@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="36" height="36"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/tapobrata.dev/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="36" height="36"></a>
 </div>
 
 ---
