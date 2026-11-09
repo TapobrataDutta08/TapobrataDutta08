@@ -130,7 +130,7 @@ I believe every project and challenge is an opportunity to learn something new. 
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=TapobrataDutta08&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="[![GitHub Streak](https://github-readme-streak-stats-jet-nu.vercel.app?user=TapobrataDutta08&theme=merko)](https://git.io/streak-stats)" alt="GitHub contribution streak" />
 
 <br><br>
 
