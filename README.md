@@ -134,6 +134,10 @@ I believe every project and challenge is an opportunity to learn something new. 
 
 <br><br>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tapobratadutta08)](https://leetcode.com/tapobratadutta08/)
+
+<br><br>
+
 </div>
 
 ## 🤝 Connect With Me
